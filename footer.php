@@ -1,4 +1,3 @@
-  </div><!-- end container -->
   <div id="footer">
     <div class="footer-links">
       <a><strong>Copyright 2011 <?php bloginfo('name'); ?></strong></a>
